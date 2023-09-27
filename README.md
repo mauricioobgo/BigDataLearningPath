@@ -3,6 +3,7 @@
 ## Weeks 1-2: Foundation in Big Data Concepts
 - Start with "Big Data for Dummies" to get a broad understanding of big data concepts.
 - Dedicate time to understand distributed computing principles.
+- [k8s tutorial](https://kubernetes.io/docs/tutorials/kubernetes-basics/) 
 
 ## Weeks 3-6: Relational Database Design
 - Dive into "Database System Concepts" for an in-depth understanding.
